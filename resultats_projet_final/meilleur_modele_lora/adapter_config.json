@@ -32,11 +32,11 @@
   "rank_pattern": {},
   "revision": null,
   "target_modules": [
-    "fc2",
-    "fc1",
-    "key",
-    "query",
     "value",
+    "fc2",
+    "key",
+    "fc1",
+    "query",
     "dense"
   ],
   "target_parameters": null,
